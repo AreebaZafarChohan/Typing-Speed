@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // This file contains main function and registration function 
 import inquirer from "inquirer";
 import chalk from "chalk";
